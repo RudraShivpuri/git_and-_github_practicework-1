@@ -26,3 +26,5 @@ int main()
 end:
     return 0;
 }
+
+// some thing we are going to discuss in this place to understatnt and go to there and have some space to underastatd and go to there to have some fun thanks your.int
